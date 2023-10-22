@@ -15,13 +15,13 @@ console.log(userName);
 // a=58;
 // console.log(a);
 
-Virkam
-Vikram
-Vik
-25
-123
-vikram ram
-c:\Users\gvikr\Desktop\v k m\ES6\Basics\Basic.js:15
-a=58;
+// Virkam
+// Vikram
+// Vik
+// 25
+// 123
+// vikram ram
+// c:\Users\gvikr\Desktop\v k m\ES6\Basics\Basic.js:15
+// a=58;
 
 
