@@ -1,4 +1,4 @@
-
+//Mini app based  on user 
 
 let user = "student";
 
@@ -19,4 +19,6 @@ switch (user){
 // Acess Denined 
 
 
-Student have got acess  
+// Student have got acess  
+
+
