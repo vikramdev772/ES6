@@ -19,3 +19,4 @@ rl.question('\n\t Enter a num 1 : ',(n1)=>{
 
 
 
+
